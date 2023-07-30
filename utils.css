@@ -1,0 +1,25 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{    height: 27px;
+    position: relative;
+    right: 87px;
+
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+.btn img{ height: 27px;
+}
+
+.my-1{
+    margin: 26px 0;
+}
+.text-center{
+    text-align: center;
+}
+.my-2{
+    margin: 5px 0;
+}
